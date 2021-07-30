@@ -1,0 +1,47 @@
+body{
+    color: white;
+    background-color: teal;
+    text-align: center;
+    
+}
+.fiver{
+    background-color: tomato;
+}
+.david{
+    font-size: 40px;
+    color: rgba(228, 222, 135, 0.801);
+}
+.signup{
+    font-size: 20px;
+    font-weight: 500;
+}
+#varify{
+    text-decoration: none;
+    color: white;
+    background-color: coral;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    
+}
+#contact{
+    font-size: 20px;
+    color: cyan;
+}
+#email{
+    font-size: 20px;
+}
+#gmail{
+    color: rgb(21, 247, 21);
+    font-size: 20px;
+    text-decoration: none;  
+    border-bottom: 2px solid rgb(21, 247, 21);
+}
+#r{
+    font-size: 30px;
+    font-weight: 600;
+    color:rgb(255, 166, 0);
+}
+#authority{
+    color: rgb(255, 166, 0);
+    font-size: 20px;
+}
